@@ -3,7 +3,7 @@ import styles from "./CityList.module.css";
 import Spinner from "./Spinner";
 import Message from "./Message";
 
-/* eslint-disable react/prop-types */
+/* eslint-disable  */
 function CityList({ cities, isLoading }) {
   if (isLoading) return <Spinner />;
   if (!cities.length)

@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
+      "id": "540b",
+      "emoji": "🇪🇸",
       "cityName": "Madrid",
       "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2024-03-07T16:03:56.548Z",
+      "notes": "dsds",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
+        "lat": "40.40094763151963",
+        "lng": "-3.6968994140625004"
+      }
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "id": "5009",
+      "emoji": "🇪🇸",
+      "cityName": "Calzada de Oropesa",
+      "country": "Spain",
+      "date": "2024-03-07T16:10:19.092Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
+        "lat": "40.01078714046552",
+        "lng": "-5.3173828125"
+      }
+    },
+    {
+      "id": "5855",
+      "emoji": "🇧🇬",
+      "cityName": "Stara Zagora",
+      "country": "Bulgaria",
+      "date": "2024-03-07T16:16:53.339Z",
+      "notes": "Manqqk",
+      "position": {
+        "lat": "42.42244277484678",
+        "lng": "25.64620971679688"
+      }
+    },
+    {
+      "id": "225a",
+      "emoji": "🇧🇬",
+      "cityName": "Sofia",
+      "country": "Bulgaria",
+      "date": "2024-03-07T16:21:49.116Z",
+      "notes": "Kremika",
+      "position": {
+        "lat": "42.78969271671165",
+        "lng": "23.500485420227054"
+      }
     }
   ]
 }
